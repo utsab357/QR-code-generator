@@ -14,4 +14,3 @@ This project is a Python-based application that generates QR codes from given in
 - **Python**: Primary programming language for the project.
 - **qrcode**: Library for generating QR codes.
 - **PIL (Python Imaging Library)**: For handling and processing image files.
-- 
